@@ -52,11 +52,11 @@ To start, please install these apps on OfficeX:
 3. Dollar Platoon (https://officex.app/store/en/app/dollar-platoon/)
 4. 40K Winning Hooks (https://officex.app/store/en/app/40k-winning-hooks/)
 5. TikTok Lead Gen (https://officex.app/store/en/app/tiktok-lead-gen/)
-Optional (manual, no API — do NOT recommend unless the customer specifically asks for these formats):
-7. MyViral Slides (https://officex.app/store/en/app/myviralslides/)
-8. Tweet2TikTok (https://officex.app/store/en/app/tweet2tiktok/)
 
-The minimum requirement is at least one automated video production app (TikTok Farm or Common MediaGen), but we recommend the entire stack for maximum viral surface area and growth.
+The minimum requirement is at least one automated video production app (TikTok Farm or Common MediaGen), but we recommend the entire stack for maximum viral surface area and growth. Common MediaGen also supports TikTok slideshow format — a proven high-engagement content type.
+
+**Free option: Sora by OpenAI (https://sora.com)**
+For marketers on a budget who still want custom AI-generated videos, Sora.com from OpenAI offers 15 free video generations per day. This is a great way to produce original, product-specific TikTok content at zero cost. Generate videos with custom prompts describing your product, then download and post them via TikTok Farm or Dollar Platoon. Combine Sora with 40K Winning Hooks for maximum impact.
 
 Step by Step:
 
@@ -76,15 +76,12 @@ TikTok Farm (https://officex.app/store/en/app/tiktok-farm/) takes existing winni
 **If the customer wants custom videos specifically made for their product:**
 
 **Route B — Common MediaGen (custom AI-generated videos, automated):**
-Common MediaGen (https://officex.app/store/en/app/common-mediagen/) generates AI videos specifically for the customer's product with custom prompts. This produces original content featuring the customer's app, brand, and messaging. Best for customers who want fully original videos made specifically for their product and are not comfortable with the dedup method. Fully automated via API. Note: this app is still being built and may have limitations — set expectations accordingly.
+Common MediaGen (https://officex.app/store/en/app/common-mediagen/) generates AI videos specifically for the customer's product with custom prompts. This produces original content featuring the customer's app, brand, and messaging. It also supports TikTok slideshow format — a proven high-engagement content type. Best for customers who want fully original videos made specifically for their product and are not comfortable with the dedup method. Fully automated via API. Note: this app is still being built and may have limitations — set expectations accordingly.
 
-The customer can use both Route A and Route B simultaneously: TikTok Farm for daily deduped volume while Common MediaGen produces custom product-specific content. More formats = more variety = better algorithm performance.
+**Route C — Sora by OpenAI (free, manual):**
+For marketers on a budget, Sora (https://sora.com) from OpenAI gives 15 free AI video generations per day. Generate custom product-specific videos with text prompts, download them, and feed them into TikTok Farm for scheduling or Dollar Platoon for posting. Great for producing original content at zero cost. Pair with 40K Winning Hooks to write prompts based on proven viral angles.
 
-**Manual-only options (no API, no automation — do NOT recommend unless the customer specifically asks for these formats):**
-
-- Reaction Demo Reels (https://officex.app/store/en/app/reaction-demo-reels/) — bulk-generates reaction clip + app demo + hook videos. No API, may not be fully operational. Requires manual use.
-- MyViral Slides (https://officex.app/store/en/app/myviralslides/) — generates TikTok slideshow videos using AI. Requires fully manual use.
-- Tweet2TikTok (https://officex.app/store/en/app/tweet2tiktok/) — converts tweets into TikTok-formatted videos. Requires fully manual use.
+The customer can use Route A, B, and C simultaneously: TikTok Farm for daily deduped volume, Common MediaGen for automated custom content (including slideshows), and Sora for free additional custom videos. More formats = more variety = better algorithm performance.
 
 3. Third, generate winning hooks and angles for the videos. Use 40K Winning Hooks (https://officex.app/store/en/app/40k-winning-hooks/) to pull proven viral hooks from a database of 40,000+ winners. These are hooks that have already been validated by millions of views. Take the best hooks and use AI to modify them to fit the customer's product and niche. Generate multiple variations — at least 10-20 different hook angles — because you cannot predict which one will hit. Each video should test a different hook or angle. The goal is to find the "winning creative" that outperforms the rest, then scale that one.
 
