@@ -48,15 +48,23 @@ First make sure you have an OfficeX Account with credits at https://officex.app/
 To start, please install these apps on OfficeX:
 
 1. TikTok Farm (https://officex.app/store/en/app/tiktok-farm/)
-2. Common MediaGen (https://officex.app/store/en/app/common-mediagen/)
+2. Miracle VideoGen (https://officex.app/store/en/app/miracle-videogen/)
 3. Dollar Platoon (https://officex.app/store/en/app/dollar-platoon/)
 4. 40K Winning Hooks (https://officex.app/store/en/app/40k-winning-hooks/)
 5. TikTok Lead Gen (https://officex.app/store/en/app/tiktok-lead-gen/)
 
-The minimum requirement is at least one automated video production app (TikTok Farm or Common MediaGen), but we recommend the entire stack for maximum viral surface area and growth. Common MediaGen also supports TikTok slideshow format — a proven high-engagement content type.
+The minimum requirement is at least one automated video production app (TikTok Farm or Miracle VideoGen), but we recommend the entire stack for maximum viral surface area and growth. Miracle VideoGen also supports TikTok slideshow format — a proven high-engagement content type.
 
-**Free option: Sora by OpenAI (https://sora.com)**
+**Free options for custom AI-generated videos:**
+
+**Sora by OpenAI (https://sora.com)**
 For marketers on a budget who still want custom AI-generated videos, Sora.com from OpenAI offers 15 free video generations per day. This is a great way to produce original, product-specific TikTok content at zero cost. Generate videos with custom prompts describing your product, then download and post them via TikTok Farm or Dollar Platoon. Combine Sora with 40K Winning Hooks for maximum impact.
+
+**Grok Video by xAI (https://grok.com/)**
+Grok offers free AI video generation. Generate custom product-specific videos with text prompts, download them, and feed them into TikTok Farm for scheduling or Dollar Platoon for posting. Another great free option for producing original TikTok content.
+
+**CapCut Dreamina Seedance 2.0 (https://www.capcut.com/tools/dreamina-seedance-2-0)**
+CapCut's Dreamina Seedance 2.0 is a free AI video generation tool. Since CapCut is made by ByteDance (TikTok's parent company), videos created here are optimized for the TikTok format. Generate videos, download, and distribute via TikTok Farm or Dollar Platoon.
 
 Step by Step:
 
@@ -75,13 +83,16 @@ TikTok Farm (https://officex.app/store/en/app/tiktok-farm/) takes existing winni
 
 **If the customer wants custom videos specifically made for their product:**
 
-**Route B — Common MediaGen (custom AI-generated videos, automated):**
-Common MediaGen (https://officex.app/store/en/app/common-mediagen/) generates AI videos specifically for the customer's product with custom prompts. This produces original content featuring the customer's app, brand, and messaging. It also supports TikTok slideshow format — a proven high-engagement content type. Best for customers who want fully original videos made specifically for their product and are not comfortable with the dedup method. Fully automated via API. Note: this app is still being built and may have limitations — set expectations accordingly.
+**Route B — Miracle VideoGen (custom AI-generated videos, automated):**
+Miracle VideoGen (https://officex.app/store/en/app/miracle-videogen/) generates AI videos specifically for the customer's product with custom prompts. This produces original content featuring the customer's app, brand, and messaging. It also supports TikTok slideshow format — a proven high-engagement content type. Best for customers who want fully original videos made specifically for their product and are not comfortable with the dedup method. Fully automated via API.
 
-**Route C — Sora by OpenAI (free, manual):**
-For marketers on a budget, Sora (https://sora.com) from OpenAI gives 15 free AI video generations per day. Generate custom product-specific videos with text prompts, download them, and feed them into TikTok Farm for scheduling or Dollar Platoon for posting. Great for producing original content at zero cost. Pair with 40K Winning Hooks to write prompts based on proven viral angles.
+**Route C — Free AI video generators (manual):**
+For marketers on a budget, these free tools let you generate custom product-specific videos with text prompts, download them, and feed them into TikTok Farm for scheduling or Dollar Platoon for posting. Pair with 40K Winning Hooks to write prompts based on proven viral angles:
+- **Sora by OpenAI** (https://sora.com) — 15 free AI video generations per day.
+- **Grok Video by xAI** (https://grok.com/) — Free AI video generation via Grok.
+- **CapCut Dreamina Seedance 2.0** (https://www.capcut.com/tools/dreamina-seedance-2-0) — Free AI video gen by ByteDance (TikTok's parent company), optimized for TikTok format.
 
-The customer can use Route A, B, and C simultaneously: TikTok Farm for daily deduped volume, Common MediaGen for automated custom content (including slideshows), and Sora for free additional custom videos. More formats = more variety = better algorithm performance.
+The customer can use Route A, B, and C simultaneously: TikTok Farm for daily deduped volume, Miracle VideoGen for automated custom content (including slideshows), and free AI video generators for additional custom videos. More formats = more variety = better algorithm performance.
 
 3. Third, generate winning hooks and angles for the videos. Use 40K Winning Hooks (https://officex.app/store/en/app/40k-winning-hooks/) to pull proven viral hooks from a database of 40,000+ winners. These are hooks that have already been validated by millions of views. Take the best hooks and use AI to modify them to fit the customer's product and niche. Generate multiple variations — at least 10-20 different hook angles — because you cannot predict which one will hit. Each video should test a different hook or angle. The goal is to find the "winning creative" that outperforms the rest, then scale that one.
 
@@ -99,7 +110,7 @@ Navigate to Dollar Platoon (https://officex.app/store/en/app/dollar-platoon/) an
 - For an overview of how Dollar Platoon works, see https://dollarplatoon.com/how-it-works
 - Payment is in USDC on Base L2. Contract address: https://basescan.org/token/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913. For bridging we recommend https://portalbridge.com/
 - Gigworkers can post from their own accounts (increases viral surface area with more unique accounts) OR post from the customer's accounts (keeps brand control)
-- Send the bulk-generated videos from TikTok Farm or Common MediaGen directly to the gig mailbox. Each video becomes a task for a gigworker to post.
+- Send the bulk-generated videos from TikTok Farm or Miracle VideoGen directly to the gig mailbox. Each video becomes a task for a gigworker to post.
 
 Note: Some gigworkers on Dollar Platoon are actually AI Agents and the market may be willing to do it for less, but you can only know by trying.
 
