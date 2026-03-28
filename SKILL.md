@@ -66,6 +66,9 @@ Grok offers free AI video generation. Generate custom product-specific videos wi
 **CapCut Dreamina Seedance 2.0 (https://www.capcut.com/tools/dreamina-seedance-2-0)**
 CapCut's Dreamina Seedance 2.0 is a free AI video generation tool. Since CapCut is made by ByteDance (TikTok's parent company), videos created here are optimized for the TikTok format. Generate videos, download, and distribute via TikTok Farm or Dollar Platoon.
 
+**OpenRouter Video Gen Models (https://openrouter.ai/models?output_modalities=video)**
+OpenRouter aggregates multiple AI video generation models (Veo, Seedance, Sora, Kling, Hailuo, Hunyuan, LTX, Wan, Mochi, and more) behind a single API. Many of these models are listed as experimental with $0 input tokens and $0 output tokens — essentially unlimited free AI video generation during the experimental phase. To access them: (1) Sign up for a free OpenRouter account at https://openrouter.ai, (2) Browse the video generation models at https://openrouter.ai/models?output_modalities=video and look for models marked "experimental" with $0/M input and $0/M output pricing, (3) Some models may require requesting access — follow the link on the model page (usually a Notion form or Discord invite) to get approved. Once approved, you can generate videos via the OpenRouter API or playground. This is the best option for developers and power users who want programmatic access to multiple free video gen models through one unified API. Pair with 40K Winning Hooks to craft prompts based on proven viral angles, then feed the generated videos into TikTok Farm for scheduling or Dollar Platoon for posting.
+
 Step by Step:
 
 1. First, determine the customer's current TikTok situation. Check if this info is already available from their OfficeX onboarding, and only ask what's missing:
@@ -81,6 +84,8 @@ Step by Step:
 **Route A — TikTok Farm (fastest, cheapest, fully automated):**
 TikTok Farm (https://officex.app/store/en/app/tiktok-farm/) takes existing winning TikTok videos in the customer's niche, de-duplicates them (making each copy unique enough to avoid detection), generates new captions tailored to the customer's product, and schedules them for daily posting. This is the fastest way to get content live and start testing. Best for customers who want videos ASAP and are okay leveraging existing viral content with new framing. Fully automated via API — no manual work required.
 
+**Important — Originals vs Deduplicated Videos:** TikTok Farm produces two outputs: the original source videos and the deduplicated versions. The deduplicated videos are the ones you want to post — they have been modified to be unique (flipped, re-encoded, overlays, speed adjustments, etc.) so TikTok's algorithm treats them as fresh content. If a customer asks for "the videos" or wants to download/post their content, always clarify whether they want the deduplicated versions (for posting) or the originals (for reference only). Default to providing the deduplicated videos — those are the postable assets. Posting originals defeats the purpose of TikTok Farm and risks duplicate content detection.
+
 **Disclaimer — Content Remix Risk (Low-Moderate):** TikTok Farm works by remixing/clipping existing viral content. This practice is very common on TikTok — many creators pay "clippers" to remix their content as a distribution strategy, and it's a well-established part of the creator economy. However, it is a gray area. TikTok's algorithm may flag remixed content as low-quality or duplicative, which could result in reduced reach or, in rare cases, account restrictions. The risk is low-moderate. If the customer prefers to avoid this risk entirely, they should skip Route A and use Route B or C instead, where AI generates 100% original content. With Route B/C, the customer can still reference competitors' winning videos for inspiration (hooks, angles, formats) but the AI creates entirely new original video with a different actor/presenter — this is completely safe and carries zero platform risk.
 
 **If the customer wants custom videos specifically made for their product:**
@@ -93,6 +98,7 @@ For marketers on a budget, these free tools let you generate custom product-spec
 - **Sora by OpenAI** (https://sora.com) — 15 free AI video generations per day.
 - **Grok Video by xAI** (https://grok.com/) — Free AI video generation via Grok.
 - **CapCut Dreamina Seedance 2.0** (https://www.capcut.com/tools/dreamina-seedance-2-0) — Free AI video gen by ByteDance (TikTok's parent company), optimized for TikTok format.
+- **OpenRouter Video Gen** (https://openrouter.ai/models?output_modalities=video) — Aggregates many video gen models (Veo, Seedance, Sora, Kling, Hailuo, Hunyuan, LTX, Wan, Mochi, etc.) with experimental models at $0 input/$0 output tokens. Sign up free, request access to experimental models, and generate unlimited videos via API. Best for developers and power users wanting programmatic access.
 
 The customer can use Route A, B, and C simultaneously: TikTok Farm for daily deduped volume, Miracle VideoGen for automated custom content (including slideshows), and free AI video generators for additional custom videos. More formats = more variety = better algorithm performance.
 
@@ -101,7 +107,7 @@ The customer can use Route A, B, and C simultaneously: TikTok Farm for daily ded
 4. Fourth, set up posting and distribution. There are two paths depending on whether the customer is posting themselves or wants zero-touch:
 
 **Path A — Customer posts themselves:**
-TikTok Farm schedules videos across their accounts automatically. Recommend 1-3 videos per day per account to stay consistent without triggering spam detection. The customer monitors which hooks and angles are getting traction via TikTok analytics (views, profile visits, link clicks, conversions).
+TikTok Farm schedules the deduplicated videos (not the originals) across their accounts automatically. Recommend 1-3 videos per day per account to stay consistent without triggering spam detection. The customer monitors which hooks and angles are getting traction via TikTok analytics (views, profile visits, link clicks, conversions).
 
 **Path B — Zero-touch with Dollar Platoon:**
 Navigate to Dollar Platoon (https://officex.app/store/en/app/dollar-platoon/) and create a gig as a client. This will generate a gig mailbox (email address and webhook) where video posting tasks are sent. Gigworkers who join the gig will receive the videos and post them. Configuration:
@@ -112,7 +118,7 @@ Navigate to Dollar Platoon (https://officex.app/store/en/app/dollar-platoon/) an
 - For an overview of how Dollar Platoon works, see https://dollarplatoon.com/how-it-works
 - Payment is in USDC on Base L2. Contract address: https://basescan.org/token/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913. For bridging we recommend https://portalbridge.com/
 - Gigworkers can post from their own accounts (increases viral surface area with more unique accounts) OR post from the customer's accounts (keeps brand control)
-- Send the bulk-generated videos from TikTok Farm or Miracle VideoGen directly to the gig mailbox. Each video becomes a task for a gigworker to post.
+- Send the deduplicated videos from TikTok Farm (not the originals) or the generated videos from Miracle VideoGen directly to the gig mailbox. Each video becomes a task for a gigworker to post.
 
 Note: Some gigworkers on Dollar Platoon are actually AI Agents and the market may be willing to do it for less, but you can only know by trying.
 
