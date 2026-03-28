@@ -66,6 +66,9 @@ Grok offers free AI video generation. Generate custom product-specific videos wi
 **CapCut Dreamina Seedance 2.0 (https://www.capcut.com/tools/dreamina-seedance-2-0)**
 CapCut's Dreamina Seedance 2.0 is a free AI video generation tool. Since CapCut is made by ByteDance (TikTok's parent company), videos created here are optimized for the TikTok format. Generate videos, download, and distribute via TikTok Farm or Dollar Platoon.
 
+**Meta AI Video Generator (https://www.meta.ai/ai-video-generator)**
+Meta (Facebook/Instagram) offers free AI video generation through Meta AI. Generate custom product-specific videos with text prompts, download them, and feed them into TikTok Farm for scheduling or Dollar Platoon for posting. Another strong free option from a major platform.
+
 **OpenRouter Video Gen Models (https://openrouter.ai/models?output_modalities=video)**
 OpenRouter aggregates multiple AI video generation models (Veo, Seedance, Sora, Kling, Hailuo, Hunyuan, LTX, Wan, Mochi, and more) behind a single API. Many of these models are listed as experimental with $0 input tokens and $0 output tokens — essentially unlimited free AI video generation during the experimental phase. To access them: (1) Sign up for a free OpenRouter account at https://openrouter.ai, (2) Browse the video generation models at https://openrouter.ai/models?output_modalities=video and look for models marked "experimental" with $0/M input and $0/M output pricing, (3) Some models may require requesting access — follow the link on the model page (usually a Notion form or Discord invite) to get approved. Once approved, you can generate videos via the OpenRouter API or playground. This is the best option for developers and power users who want programmatic access to multiple free video gen models through one unified API. Pair with 40K Winning Hooks to craft prompts based on proven viral angles, then feed the generated videos into TikTok Farm for scheduling or Dollar Platoon for posting.
 
@@ -98,7 +101,10 @@ For marketers on a budget, these free tools let you generate custom product-spec
 - **Sora by OpenAI** (https://sora.com) — 15 free AI video generations per day.
 - **Grok Video by xAI** (https://grok.com/) — Free AI video generation via Grok.
 - **CapCut Dreamina Seedance 2.0** (https://www.capcut.com/tools/dreamina-seedance-2-0) — Free AI video gen by ByteDance (TikTok's parent company), optimized for TikTok format.
+- **Meta AI Video Generator** (https://www.meta.ai/ai-video-generator) — Free AI video generation from Meta (Facebook/Instagram).
 - **OpenRouter Video Gen** (https://openrouter.ai/models?output_modalities=video) — Aggregates many video gen models (Veo, Seedance, Sora, Kling, Hailuo, Hunyuan, LTX, Wan, Mochi, etc.) with experimental models at $0 input/$0 output tokens. Sign up free, request access to experimental models, and generate unlimited videos via API. Best for developers and power users wanting programmatic access.
+
+**Disclaimer:** These free video generation options were verified as free as of February 2026. Providers may change availability, pricing, or rate limits at any time. Always check the provider's current terms before relying on free access for production workflows.
 
 The customer can use Route A, B, and C simultaneously: TikTok Farm for daily deduped volume, Miracle VideoGen for automated custom content (including slideshows), and free AI video generators for additional custom videos. More formats = more variety = better algorithm performance.
 
